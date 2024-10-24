@@ -1,3 +1,19 @@
+# One More Task Tracker
+
+just a sandbox created to check out some technologies, ex. `Next`, `Drizzle`, `Neon`, `clerk`, `Tailwind`, `shadcn`
+
+### Roadmap (in progress)
+
+1.  User auth by Clerk, init db by Neon & Drizzle.
+2.  A single task list for the user with a simple task editor on the side.
+3.  Kanban board of tasks.
+4.  Projects combine boards, and users can create and be assigned to them.
+5.  Comments for tickets.
+6.  ...
+7.  PROFIT!
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
